@@ -48,3 +48,12 @@ The dataset does not include profit margins, customer information, marketing cam
 This project helped me develop practical skills in data cleaning, data merging, exploratory analysis, and business reporting using Python.
 
 The findings provide a useful starting point for understanding sales performance and identifying areas for further investigation.
+
+
+## Data Source
+
+The dataset used in this project is the Pizza Place Sales dataset, downloaded from Kaggle.
+
+It contains one year of pizza sales data, including order details, pizza types, sizes, quantities, prices, and ingredients.
+
+Dataset source: [Pizza Place Sales Dataset - Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales)
